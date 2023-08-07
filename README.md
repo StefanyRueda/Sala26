@@ -1,3 +1,3 @@
-## Sala 26
+# Sala 26
 
-# Stefany Rueda
+## Stefany Rueda
